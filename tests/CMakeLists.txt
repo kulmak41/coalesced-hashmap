@@ -1,0 +1,1 @@
+add_executable(test test.cpp ../src/hashmap.h)
